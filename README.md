@@ -1,6 +1,4 @@
-# 🚀 Realtime Data Streaming ! 🚀
-
-# 🚀 Realtime Data Streaming Pipeline 🚀
+# 🚀 Realtime Data Streaming Pipeline ! 🚀
 
 This project demonstrates the construction of a robust **end-to-end real-time data streaming pipeline**, designed to process and analyze data at scale. Built with modern data engineering technologies, this pipeline seamlessly integrates data ingestion, processing, storage, and orchestration to deliver reliable real-time insights.
 
